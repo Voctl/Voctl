@@ -37,7 +37,7 @@ Fan of
 ![Antigravity](https://img.shields.io/badge/Python-Antigravity-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/Denis-ctr/Denis-ctr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Voctl/Voctl/output/snake.svg" alt="Snake animation" />
 
 ###
 
