@@ -1,3 +1,4 @@
+#  I'm Denis - a tech nerd
 
 
 ###
@@ -7,8 +8,6 @@
 </div>
 
 ###
-
-#  I'm Denis - a tech nerd
 
 Fan of
 
