@@ -44,3 +44,8 @@ Fan of
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Python-Antigravity-blueviolet?style=for-the-badge&logo=python&logoColor=white)
 ![i3wm](https://img.shields.io/badge/I3%20WM-222222?style=for-the-badge&logo=i3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+
