@@ -43,4 +43,4 @@ Fan of
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Python-Antigravity-blueviolet?style=for-the-badge&logo=python&logoColor=white)
-
+![i3wm](https://img.shields.io/badge/i3-window%20manager-blue?style=flat&logo=i3)
