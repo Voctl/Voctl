@@ -1,4 +1,4 @@
-#  I'm Denis - a tech nerd
+#  I'm Denis - a 15 yo tech nerd
 Fan of
 
 ![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
