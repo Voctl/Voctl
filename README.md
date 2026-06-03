@@ -3,7 +3,7 @@
 
 <b>Denis Gülməmmədov</b><br>
 15 years old<br>
-operating systems · programming languages · mathematics
+operating systems · ai · mathematics
 
 </div>
 
