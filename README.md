@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="56" align="left" style="margin-right:16px"/>
 
 **Denis Gülməmmədov**  
-15 · arch linux · i3wm · nim · python  
+15 · os · C · wm · nim · python  
 fan of terry a. davis
 
 </div>
