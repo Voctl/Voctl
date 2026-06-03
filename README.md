@@ -1,9 +1,9 @@
 <div>
-<img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="56" align="left" style="margin-right:16px"/>
+<img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left" />
 
-**Denis Gülməmmədov**  
-15 · os · C · wm · nim · python  
-fan of terry a. davis
+<b>Denis Gülməmmədov</b><br>
+15 years old<br>
+operating systems · programming languages · mathematics
 
 </div>
 
@@ -11,18 +11,39 @@ fan of terry a. davis
 
 ---
 
-**links**
+### about
 
-[discord](https://discord.gg/1010501907980222494) &nbsp; [instagram](https://instagram.com/philosophoftech) &nbsp; [linkedin](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/) &nbsp; [youtube](https://youtube.com/@DenisGülməmmədov) &nbsp; [denisgulmd@gmail.com](mailto:denisgulmd@gmail.com)
+software developer from azerbaijan.
+
+interested in operating systems,
+computer networks,
+distributed systems,
+programming languages,
+AI
+and low-level software.
 
 ---
 
-**stack**
+### links
 
-`arch` `i3wm` `nim` `nigui` `python` `fastapi` `pytorch` `pandas` `numpy` `postgresql` `supabase` `n8n` `obsidian` `dotenv`
+[discord](https://discord.gg/1010501907980222494) ·
+[instagram](https://instagram.com/philosophoftech) ·
+[linkedin](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/) ·
+[youtube](https://youtube.com/@DenisGülməmmədov) ·
+[email](mailto:denisgulmd@gmail.com)
 
 ---
 
-```
-// write code. not comments about code.
+### philosophy
+
+software should be understandable.
+
+less dependencies.
+less abstraction.
+less complexity.
+
+---
+
+```c
+/* write code, not powerpoint presentations */
 ```
