@@ -27,7 +27,7 @@ and low-level software.
 ### links
 
 [discord](https://discord.gg/1010501907980222494) ·
-[instagram](https://instagram.com/philosophoftech) ·
+[instagram](https://instagram.com/vocctl) ·
 [linkedin](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/) ·
 [youtube](https://youtube.com/@DenisGülməmmədov) ·
 [email](mailto:denisgulmd@gmail.com)
