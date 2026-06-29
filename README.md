@@ -1,14 +1,10 @@
-<div align="left">
-  <img src="https://media.tenor.com/f2Z99O01Z7IAAAAj/hatsune-miku-miku-dance.gif" width="65" />
-  <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" />
-  <img src="https://media.tenor.com/XU6w8Y1ZInAAAAAj/mi-mita.gif" width="65" />
-</div>
+<img src="https://media.tenor.com/f2Z99O01Z7IAAAAj/hatsune-miku-miku-dance.gif" width="65" align="left" />&nbsp;
+<img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left" />&nbsp;
+<img src="https://media.tenor.com/XU6w8Y1ZInAAAAAj/mi-mita.gif" width="65" align="left" />&nbsp;
 
-<div>
-  <b>Denis Gülməmmədov</b><br>
-  16 years old<br>
-  operating systems · ai · mathematics
-</div>
+<b>Denis Gülməmmədov</b><br>
+16 years old<br>
+operating systems · ai · mathematics
 
 <br clear="left"/>
 
