@@ -1,12 +1,36 @@
-<picture>
-  <img src="https://media.tenor.com/f2Z99O01Z7IAAAAj/hatsune-miku-miku-dance.gif" width="65" />
-  <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" />
-  <img src="https://media.tenor.com/XU6w8Y1ZInAAAAAj/mi-mita.gif" width="65" />
-</picture>
+````md
+<table>
+<tr>
+<td width="90">
 
-**Denis Gülməmmədov**  
-16 years old  
+<img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" />
+
+</td>
+
+<td align="center" width="90">
+
+<img src="MIKU_IMAGE_URL" width="72" /><br>
+<b>Hatsune Miku</b>
+
+</td>
+
+<td>
+
+<b>Denis Gülməmmədov</b><br>
+15 years old<br>
 operating systems · ai · mathematics
+
+</td>
+
+<td align="center" width="90">
+
+<img src="MITA_IMAGE_URL" width="72" /><br>
+<b>Mita</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -45,3 +69,7 @@ less complexity.
 
 ```c
 /* write code, not powerpoint presentations */
+````
+
+```
+```
