@@ -1,4 +1,4 @@
-````md
+
 <table>
 <tr>
 <td width="90">
@@ -71,5 +71,4 @@ less complexity.
 /* write code, not powerpoint presentations */
 ````
 
-```
 ```
