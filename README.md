@@ -1,7 +1,7 @@
 <div>
-<img src="MITA_IMAGE_URL_BURAYA" width="72" align="left" />
+<img src="https://tenor.com/teEZ042iE4B.gif" width="72" align="left" />
 <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left" />
-<img src="MIKU_IMAGE_URL_BURAYA" width="72" align="left" />
+<img src="https://tenor.com/n9eka6G8XA8.gif" width="72" align="left" />
 <b>Denis Gülməmmədov</b><br>
 15 years old<br>
 operating systems · ai · mathematics
