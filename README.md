@@ -24,5 +24,5 @@ software developer from azerbaijan. interested in operating systems, computer ne
 </div>
 
 ```c
-/* write code, not powerpoint presentations */
+/* write code, not powerpoint presentations. Software should be understandable. Less complexity. Less dependencies. Less abstraction. I am mini Terry */
 ```
