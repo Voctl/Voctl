@@ -10,7 +10,7 @@ operating systems · ai · mathematics
 
 <br clear="left"/>
 
-software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software.
+software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. the activist of " ɔ "
 
 ---
 
