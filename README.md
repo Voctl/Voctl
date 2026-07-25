@@ -20,6 +20,8 @@ user of GNU+Linux and Neovim. "free as in freedom, not free as in zero price" â€
 
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNjN0djd3YXB0b3h6NHFoZTZnbG00bjFjdmM2ZXJobHNheWJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="250"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://stallman.org/photos/rms-at-46.jpg" width="200" title="Richard Stallman â€” Father of Free Software"/>
 
 <br><br>
 
