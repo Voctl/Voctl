@@ -16,11 +16,13 @@ user of GNU+Linux and Neovim. "free as in freedom, not free as in zero price" �
 
 > *"if the users don't control the program, the program controls the users."* — richard stallman
 
----
-
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNjN0djd3YXB0b3h6NHFoZTZnbG00bjFjdmM2ZXJobHNheWJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="250"/>
-<br><br>
+
+| | |
+|:---:|:---:|
+| <img src="docs/Stallman.jpg" width="250"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNjN0djd3YXB0b3h6NHFoZTZnbG00bjFjdmM2ZXJobHNheWJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="250"/> |
+
+<br>
 
 <a href="https://discord.gg/1010501907980222494">discord</a> · <a href="https://instagram.com/vocctl">instagram</a> · <a href="https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/">linkedin</a> · <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · <a href="mailto:denisgulmd@gmail.com">email</a> · <a href="https://stallman.org">rms</a>
 
