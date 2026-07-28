@@ -26,7 +26,6 @@ user of GNU+Linux and Neovim. "free as in freedom, not free as in zero price" â€
 
 </div>
 
-
 ```c
 /* write code, not powerpoint presentations. Software should be understandable.
  Less complexity. Less dependencies. Less abstraction. I am mini Terry */
