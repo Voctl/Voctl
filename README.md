@@ -1,6 +1,5 @@
 <div>
 <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left"/>
-<img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="72" align="left"/>
 
 <b>Denis Gülməmmədov</b><br>
 15 years old<br>
@@ -23,7 +22,7 @@ user of GNU+Linux and Neovim. "free as in freedom, not free as in zero price" �
 <br><br>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media1.tenor.com/m/i0H4oKLZVnQAAAAC/this-post-was-fact-checked-by-real-konata-lucky-star.gif" width="65"/>
+  <img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="65"/>
   <span>
     <a href="https://discord.gg/1010501907980222494">discord</a> · <a href="https://instagram.com/vocctl">instagram</a> · <a href="https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/">linkedin</a> · <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · <a href="mailto:denisgulmd@gmail.com">email</a> · <a href="https://stallman.org">rms</a>
   </span>
