@@ -1,6 +1,6 @@
 <div>
 <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left"/>
-<img src="https://media.tenor.com/ouQzDmgC9CwAAAAj/miku-vocaloid.gif" width="72" align="left"/>
+<img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="72" align="left"/>
 
 <b>Denis Gülməmmədov</b><br>
 15 years old<br>
