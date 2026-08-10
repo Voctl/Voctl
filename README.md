@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif" width="72" align="left"/>
 
 <b>Denis Gulmammadov</b><br>
-15 years old<br>
+16 years old<br>
 operating systems · ai · mathematics · copyleft · free software
 
 </div>
