@@ -11,7 +11,7 @@ operating systems · ai · mathematics · copyleft · free software
 
 software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. activist of "ɔ", copyleft and free software.
 
-user of GNU+Linux and Emacs. "free as in freedom, not free as in zero price" — rms<img src="https://media.tenor.com/HhCBumlpp4MAAAAi/moe-konata.gif" width="48" style="vertical-align: middle; margin-bottom: -15px;" />
+user of GNU+Linux and Emacs (flex). "free as in freedom, not free as in zero price" — rms<img src="https://media.tenor.com/HhCBumlpp4MAAAAi/moe-konata.gif" width="48" style="vertical-align: middle; margin-bottom: -15px;" />
 
 > *"if the users don't control the program, the program controls the users."* — richard stallman
 
