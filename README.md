@@ -32,7 +32,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 <br>
 
 <div align="center">
-  <img src="https://cyber.dabamos.de/88x31/freebsd.gif" alt="FreeBSD"/> &nbsp;
+  <img src="https://media.tenor.com/Ob7X79zPZjoAAAAi/netbsd.gif"/> &nbsp;
   <img src="https://cyber.dabamos.de/88x31/openbsd.gif" alt="OpenBSD"/> &nbsp;
   <img src="https://cyber.dabamos.de/88x31/c.gif" alt="C Programming"/> &nbsp;
   
