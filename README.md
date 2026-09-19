@@ -18,21 +18,21 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 <br>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-    <img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="50"/>
-    <span>
-      <a href="https://discord.gg/1010501907980222494">discord</a> · 
-      <a href="https://instagram.com/vocctl">instagram</a> · 
-      <a href="https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/">linkedin</a> · 
-      <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · 
-      <a href="mailto:denisgulmd@gmail.com">email</a> · 
-      <a href="https://www.netbsd.org/">netbsd</a>
-    </span>
-    <img src="https://media.tenor.com/7rCtKSHxnTYAAAAi/konata.gif" width="50"/>
-  </div>
+  <img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="50" align="center"/> &nbsp;&nbsp;
+  <span>
+    <a href="https://discord.gg/1010501907980222494">discord</a> · 
+    <a href="https://instagram.com/vocctl">instagram</a> · 
+    <a href="https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/">linkedin</a> · 
+    <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · 
+    <a href="mailto:denisgulmd@gmail.com">email</a> · 
+    <a href="https://www.netbsd.org/">netbsd</a>
+  </span> &nbsp;&nbsp;
+  <img src="https://media.tenor.com/7rCtKSHxnTYAAAAi/konata.gif" width="50" align="center"/>
 </div>
 
 <br>
+
+
 
 ```c
 /* No, Richard, it's 'Linux', not 'GNU/Linux' now.
