@@ -43,6 +43,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 ```c
 /* No, Richard, it's 'Linux', not 'GNU/Linux' now.
    Your bloated utilities have been replaced by BSD userland.
+   GNU is the true way once upon a time, but now, its just...yk
    
    Write code, not powerpoint presentations.
    Less complexity. Less dependencies. Do one thing and do it well. */
