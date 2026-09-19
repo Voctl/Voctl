@@ -33,9 +33,9 @@ user of FreeLinX/KhazarOS and Emacs (flex). "free as in freedom, not free as in 
 <br>
 
 ```c
-/* No, Richard, it's 'Linux', not 'GNU/Linux' now. Your bloated userland
+   No, Richard, it's 'Linux', not 'GNU/Linux' now. Your bloated userland
    utilities can easily be replaced by BusyBox and musl libc.
-   Or better yet, avoid the mess entirely and just use a cohesive OS like OpenBSD. */
+   Or better yet, avoid the mess entirely and just use a cohesive OS like OpenBSD.
    write code, not powerpoint presentations. Software should be simple.
    Less complexity. Less dependencies. Do one thing and do it well.
    Systemd and GNU bloat are crimes against hardware. */
