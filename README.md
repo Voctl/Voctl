@@ -18,7 +18,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 <br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="50" align="center"/> &nbsp;&nbsp;
+   <img src="https://cyber.dabamos.de/88x31/netbsd.gif" alt="NetBSD"/>&nbsp;&nbsp;
   <span>
     <a href="https://discord.gg/1010501907980222494">discord</a> · 
     <a href="https://instagram.com/vocctl">instagram</a> · 
@@ -27,12 +27,18 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
     <a href="mailto:denisgulmd@gmail.com">email</a> · 
     <a href="https://www.netbsd.org/">netbsd</a>
   </span> &nbsp;&nbsp;
-  <img src="https://media.tenor.com/7rCtKSHxnTYAAAAi/konata.gif" width="50" align="center"/>
+  <img src="https://cyber.dabamos.de/88x31/emacs.gif" alt="Emacs"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://cyber.dabamos.de/88x31/freebsd.gif" alt="FreeBSD"/> &nbsp;
+  <img src="https://cyber.dabamos.de/88x31/openbsd.gif" alt="OpenBSD"/> &nbsp;
+  <img src="https://cyber.dabamos.de/88x31/c.gif" alt="C Programming"/> &nbsp;
+  
 </div>
 
 <br>
-
-
 
 ```c
 /* No, Richard, it's 'Linux', not 'GNU/Linux' now.
