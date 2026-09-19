@@ -25,7 +25,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
       <a href="https://instagram.com/vocctl">instagram</a> · 
       <a href="https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/">linkedin</a> · 
       <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · 
-      <a href="mailto:denisgulmd@gmail.com">email</a> · 
+      <a href="mailto:denisgulmd@proton.me">email</a> · 
       <a href="https://www.netbsd.org/">netbsd</a>
     </span>
     <img src="https://media.tenor.com/7rCtKSHxnTYAAAAi/konata.gif" width="50"/>
