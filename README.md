@@ -33,11 +33,10 @@ user of FreeLinX/KhazarOS and Emacs (flex). "free as in freedom, not free as in 
 <br>
 
 ```c
-/* write code, not powerpoint presentations. Software should be understandable.
-Less complexity. Less dependencies. Less abstraction. I am mini Terry */
-
-/* free software is a matter of liberty, not price. to understand the concept,
-you should think of "free" as in "free speech", not as in "free beer". — rms */
-
-/* I'd like to interject for a moment. What you're referring to as Linux,
-is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. */
+/* No, Richard, it's 'Linux', not 'GNU/Linux' now. Your bloated userland
+   utilities can easily be replaced by BusyBox and musl libc.
+   Or better yet, avoid the mess entirely and just use a cohesive OS like OpenBSD. */
+   write code, not powerpoint presentations. Software should be simple.
+   Less complexity. Less dependencies. Do one thing and do it well.
+   Systemd and GNU bloat are crimes against hardware. */
+```
