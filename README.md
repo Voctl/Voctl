@@ -18,7 +18,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 <br>
 
 <div align="center">
-   <img src="https://cyber.dabamos.de/88x31/netbsd.gif" alt="NetBSD"/>&nbsp;&nbsp;
+  <img src="https://cyber.dabamos.de/88x31/netbsd.gif" alt="NetBSD"/>&nbsp;&nbsp;
   <span>
     <a href="https://discord.gg/1010501907980222494">discord</a> · 
     <a href="https://instagram.com/vocctl">instagram</a> · 
@@ -26,16 +26,17 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
     <a href="https://youtube.com/@DenisGülməmmədov">youtube</a> · 
     <a href="mailto:denisgulmd@gmail.com">email</a> · 
     <a href="https://www.netbsd.org/">netbsd</a>
-  </span> &nbsp;&nbsp;
+  </span>&nbsp;&nbsp;
   <img src="https://cyber.dabamos.de/88x31/emacs.gif" alt="Emacs"/>
 </div>
+
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/Ob7X79zPZjoAAAAi/netbsd.gif"/> &nbsp;
-  <img src="https://cyber.dabamos.de/88x31/openbsd.gif" alt="OpenBSD"/> &nbsp;
-  <img src="https://cyber.dabamos.de/88x31/c.gif" alt="C Programming"/> &nbsp;
-  
+  <img src="https://media.tenor.com/Ob7X79zPZjoAAAAi/netbsd.gif" height="70"/>&nbsp;
+  <img src="https://cyber.dabamos.de/88x31/openbsd.gif" alt="OpenBSD"/>&nbsp;
+  <img src="https://cyber.dabamos.de/88x31/c.gif" alt="C Programming"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/74e61402-8db6-4729-8de0-aa24298c10f6" height="31"/>
 </div>
 
 <br>
@@ -44,6 +45,7 @@ user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as 
 /* No, Richard, it's 'Linux', not 'GNU/Linux' now.
    Your bloated utilities have been replaced by BSD userland.
    GNU is the true way once, but now, its just...yk
-   
+
    Write code, not powerpoint presentations.
    Less complexity. Less dependencies. Do one thing and do it well. */
+```
