@@ -9,7 +9,7 @@ operating systems · ai · mathematics · copyleft · free software
 
 <br clear="left"/>
 
-software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. activist of "ɔ", free software.
+software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. with free software you have freedoom !.
 
 user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as in zero price" — rms</s>
 
