@@ -11,9 +11,9 @@ operating systems · ai · mathematics · copyleft · free software
 
 software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. with free software you have freedoom !
 
-user of FreeLinX/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as in zero price" — rms</s>
+user of nux9/KhazarOS and Emacs (flex). <s>"free as in freedom, not free as in zero price" — rms</s>
 
-> *"FreeLinX: The hardware support of Linux, the sanity of NetBSD userland. Zero GNU bloat."*
+> *nux9: The hardware support of Linux, the sanity of NetBSD userland. Zero GNU bloat."*
 
 <br>
 
